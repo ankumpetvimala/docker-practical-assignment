@@ -40,6 +40,9 @@ docker compose down
 The Compose application contains:
 
 . Nginx web container
+
 . Redis container
+
 . Custom Docker network
+
 . Persistent Docker volume
