@@ -5,20 +5,35 @@ This project demonstrates basic Docker concepts and practical exercises, includi
 ## Project Structure
 
 docker-practical-assignment/
+
 │
+
 ├── index.html
+
 ├── Dockerfile
+
 ├── docker-compose.yml
+
 ├── README.md
+
 │
+
 ├── screenshots/
+
 │   ├── docker-installation.png
+
 │   ├── docker-version.png
+
 │   ├── docker-images.png
+
 │   ├── running-containers.png
+
 │   └── docker-hub.png
+
 │
+
 └── report/
+
     └── Docker_Practical_Report.pdf
     
 ### Topics Covered
