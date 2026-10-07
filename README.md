@@ -282,4 +282,3 @@ report/Docker_Practical_Report.pdf
 
 This practical assignment demonstrates the fundamentals of Docker, including creating Docker images, running containers, writing Dockerfiles, managing volumes and networks, using Docker Compose for multi-container applications, and publishing Docker images to Docker Hub.
 
-Web Application - http://localhost:8080
